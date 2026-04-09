@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suhaspjs
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...full stack development 
-- 💞️ I’m looking to collaborate on ...Development
+- 👀 I’m interested in ...AI&ML
+- 🌱 I’m currently learning ...AI
+- 💞️ I’m looking to collaborate on ...AI
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
